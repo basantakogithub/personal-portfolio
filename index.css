@@ -363,7 +363,7 @@ a {
 
 /*------------ Responsive --------- */
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   /* GLOBAL */
   body {
     font-size: 12px;
