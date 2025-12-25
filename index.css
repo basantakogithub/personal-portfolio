@@ -451,7 +451,7 @@ a {
     height: auto;
     border-radius: 7px;
     width: auto;
-
+    margin-bottom: 15px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
