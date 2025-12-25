@@ -112,6 +112,7 @@ a {
   background-color: #f7f9ec;
   color: #5e4074;
   border-radius: 10px;
+  margin-bottom: 10px !important;
 }
 .row {
   display: flex;
@@ -451,7 +452,7 @@ a {
     height: auto;
     border-radius: 7px;
     width: auto;
-    margin-bottom: 15px;
+    margin-bottom: 15px !important;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
